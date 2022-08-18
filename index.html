@@ -19,11 +19,12 @@
 </head>
 <body>
 
+
 <!-- header -->
 
 <header class="header">
 
-    <a href="#home" class="logo"> <img src="images/iconos/icons8-nintendo-40.png" alt=""> <img src="images/icons8-nintendo-40 (1).png" alt=""> </a>
+    <a href="#home" class="logo"> <img src="images/iconos/icons8-nintendo-40.png" alt=""> <img src="images/iconos/icons8-nintendo-40 (1).png" alt=""> </a>
 
     <form action="" class="search-form">
         <input type="search" name="" placeholder="search here..." id="search-box">
@@ -33,8 +34,7 @@
     <div class="icons">
         <div id="menu-btn" class="fas fa-bars"></div>
         <div id="search-btn" class="fas fa-search"></div>
-        <a href="#" class="fas fa-heart"></a>
-        <a href="#" class="fas fa-shopping-cart"></a>
+        <a href="login.html" class="fas fa-user"></a>
     </div>
 
 </header>
@@ -43,15 +43,12 @@
 
 <nav class="navbar">
     <div id="close-navbar" class="fas fa-times"></div>
-    <a href="index.html">home</a>
-    <a href="#shop">shop</a>
-    <a href="#gallery">gallery</a>
-    <a href="contacto.html">contacto</a>
-    <a href="#team">team</a>
-    <a href="#arrivals">arrivals</a>
-    <a href="#blogs">blogs</a>
+    <a href="index.html">Inicio</a>
+    <a href="shopping.html">Shopping</a>
+    <a href="pokedex.html">Pokedex</a>
+    <a href="contacto.html">Contacto</a>
+    <a href="login.html">Login</a>
 </nav>
-
 
 
 <!-- home -->
@@ -103,6 +100,23 @@
         </div>
         <div class="image">
             <img src="images/home/portada-home3.jpeg" alt="">
+        </div>
+    </div>
+
+    <div class="slide">
+        <div class="content">
+            <img src="images/home/pokedex.JPG" alt="">
+            <span>Conoce</span>
+            <h3 class="nintendo">LA POKEDEX</h3>
+            <a href="pokedex.html" class="btn">Visitar</a>
+            <a href="busca-pokemon.html" class="btn">O busca tu pokémon</a>
+            <div class="controls">
+                <div class="fas fa-angle-left" onclick="prev()"></div>
+                <div class="fas fa-angle-right" onclick="next()"></div>
+            </div>
+        </div>
+        <div class="image">
+            <img src="images/home/pokedex.JPG" alt="">
         </div>
     </div>
 
@@ -178,7 +192,6 @@
                     <span class="discount">-25%</span>
                     <img src="images/switch/switch-1.JPG" alt="">
                     <div class="icons">
-                        <a href="#" class="fas fa-shopping-cart"></a>
                         <a href="#" class="fas fa-heart"></a>
                         <a href="#" class="fas fa-share"></a>
                     </div>
@@ -201,7 +214,6 @@
                     <span class="discount">-25%</span>
                     <img src="images/switch/switch-2.JPG" alt="">
                     <div class="icons">
-                        <a href="#" class="fas fa-shopping-cart"></a>
                         <a href="#" class="fas fa-heart"></a>
                         <a href="#" class="fas fa-share"></a>
                     </div>
@@ -224,7 +236,6 @@
                     <span class="discount">-25%</span>
                     <img src="images/switch/switch-3.JPG" alt="">
                     <div class="icons">
-                        <a href="#" class="fas fa-shopping-cart"></a>
                         <a href="#" class="fas fa-heart"></a>
                         <a href="#" class="fas fa-share"></a>
                     </div>
@@ -247,7 +258,6 @@
                     <span class="discount">-25%</span>
                     <img src="images/switch/switch-4.JPG" alt="">
                     <div class="icons">
-                        <a href="#" class="fas fa-shopping-cart"></a>
                         <a href="#" class="fas fa-heart"></a>
                         <a href="#" class="fas fa-share"></a>
                     </div>
@@ -270,7 +280,6 @@
                     <span class="discount">-25%</span>
                     <img src="images/switch/swith-5.JPG" alt="">
                     <div class="icons">
-                        <a href="#" class="fas fa-shopping-cart"></a>
                         <a href="#" class="fas fa-heart"></a>
                         <a href="#" class="fas fa-share"></a>
                     </div>
@@ -293,7 +302,6 @@
                     <span class="discount">-25%</span>
                     <img src="images/switch/switch-6.JPG" alt="">
                     <div class="icons">
-                        <a href="#" class="fas fa-shopping-cart"></a>
                         <a href="#" class="fas fa-heart"></a>
                         <a href="#" class="fas fa-share"></a>
                     </div>
@@ -316,7 +324,6 @@
                     <span class="discount">-25%</span>
                     <img src="images/switch/switch-7.JPG" alt="">
                     <div class="icons">
-                        <a href="#" class="fas fa-shopping-cart"></a>
                         <a href="#" class="fas fa-heart"></a>
                         <a href="#" class="fas fa-share"></a>
                     </div>
@@ -339,7 +346,6 @@
                     <span class="discount">-25%</span>
                     <img src="images/switch/switch--8.JPG" alt="">
                     <div class="icons">
-                        <a href="#" class="fas fa-shopping-cart"></a>
                         <a href="#" class="fas fa-heart"></a>
                         <a href="#" class="fas fa-share"></a>
                     </div>
@@ -372,7 +378,7 @@
 <section class="gallery" id="gallery">
 
     <div class="heading">
-        <h1>Gallery</h1>
+        <a href="#gallery"><h1>Gallery</h1></a>
         <p>Ven a nuestro lugar y disfruta del momento ¡Te esperamos!</p>
     </div>
 
@@ -474,7 +480,7 @@
                 <div class="content">
                     <p>Lapras</p>
                     <div class="price">$49.99 <span>$79.99</span></div>
-                    <a href="#" class="btn">add to cart</a>
+                    <a href="#" class="btn">Favorito</a>
                 </div>
             </div>
 
@@ -485,7 +491,7 @@
                 <div class="content">
                     <p>Jolteon</p>
                     <div class="price">$49.99 <span>$79.99</span></div>
-                    <a href="#" class="btn">add to cart</a>
+                    <a href="#" class="btn">Favorito</a>
                 </div>
             </div>
 
@@ -496,7 +502,7 @@
                 <div class="content">
                     <p>Eevee</p>
                     <div class="price">$49.99 <span>$79.99</span></div>
-                    <a href="#" class="btn">add to cart</a>
+                    <a href="#" class="btn">Favorito</a>
                 </div>
             </div>
 
@@ -507,7 +513,7 @@
                 <div class="content">
                     <p>Cyndaquil</p>
                     <div class="price">$49.99 <span>$79.99</span></div>
-                    <a href="#" class="btn">add to cart</a>
+                    <a href="#" class="btn">Favorito</a>
                 </div>
             </div>
 
@@ -518,7 +524,7 @@
                 <div class="content">
                     <p>Growlithe</p>
                     <div class="price">$49.99 <span>$79.99</span></div>
-                    <a href="#" class="btn">add to cart</a>
+                    <a href="#" class="btn">Favorito</a>
                 </div>
             </div>
 
@@ -529,7 +535,7 @@
                 <div class="content">
                     <p>Vulpix</p>
                     <div class="price">$49.99 <span>$79.99</span></div>
-                    <a href="#" class="btn">add to cart</a>
+                    <a href="#" class="btn">Favorito</a>
                 </div>
             </div>
 
@@ -540,7 +546,7 @@
                 <div class="content">
                     <p>Scorbunny</p>
                     <div class="price">$49.99 <span>$79.99</span></div>
-                    <a href="#" class="btn">add to cart</a>
+                    <a href="#" class="btn">Favorito</a>
                 </div>
             </div>
 
@@ -551,7 +557,7 @@
                 <div class="content">
                     <p>Popplio</p>
                     <div class="price">$49.99 <span>$79.99</span></div>
-                    <a href="#" class="btn">add to cart</a>
+                    <a href="#" class="btn">Favorito</a>
                 </div>
             </div>
 
@@ -563,6 +569,7 @@
     </div>
     
 </section>
+
 
 
 <!-- reviews  -->
@@ -687,12 +694,6 @@
 <section class="service">
 
     <div class="box">
-        <img src="images/services/service-1.png" alt="">
-        <h3>Envío Gratis</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, fugit?</p>
-    </div>
-
-    <div class="box">
         <img src="images/services/service-2.png" alt="">
         <h3>Pago Seguro</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, fugit?</p>
@@ -707,6 +708,12 @@
     <div class="box">
         <img src="images/services/service-4.png" alt="">
         <h3>Atención Excelente</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, fugit?</p>
+    </div>
+    
+        <div class="box">
+        <img src="images/services/icons8-super-mario-50.png" alt="">
+        <h3>Super Diversión</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, fugit?</p>
     </div>
 
@@ -834,18 +841,19 @@
 
         <div class="box">
             <h3>quick links</h3>
-            <a class="link" href="#home"> <i class="fas fa-angle-right"></i> Inicio</a>
-            <a class="link" href="#shop"> <i class="fas fa-angle-right"></i> Switch Games</a>
-            <a class="link" href="#gallery"> <i class="fas fa-angle-right"></i> Gallery</a>
-            <a class="link" href="#team"> <i class="fas fa-angle-right"></i> Team</a>
-            <a class="link" href="contacto.html"> <i class="fas fa-angle-right"></i> Contacto</a>
-            <a class="link" href="#blogs"> <i class="fas fa-angle-right"></i> Blogs</a>
+            <a class="link" href="index.html"><i class="fas fa-angle-right"></i>Inicio</a>
+            <a class="link" href="shopping.html"><i class="fas fa-angle-right"></i>Shopping</a>
+            <a class="link" href="pokedex.html"><i class="fas fa-angle-right"></i>Pokedex</a>
+            <a class="link" href="contacto.html"><i class="fas fa-angle-right"></i>Contacto</a>
+            <a class="link" href="login.html"><i class="fas fa-angle-right"></i>Login</a>
         </div>
 
         <div class="box">
             <h3>extra links</h3>
-            <a href="#" class="link"> <i class="fas fa-angle-right"></i> Mi orden </a>
-            <a href="#" class="link"> <i class="fas fa-angle-right"></i> Mi wishlist </a>
+            <a href="busca-pokemon.html" class="link"> <i class="fas fa-angle-right"></i> Tu Pokémon </a>
+            <a href="#gallery" class="link"> <i class="fas fa-angle-right"></i> Gallery </a>
+            <a href="#shop" class="link"> <i class="fas fa-angle-right"></i> New Switch Games </a>
+            <a href="#arrivals" class="link"> <i class="fas fa-angle-right"></i> New Bammers </a>
             <a href="#" class="link"> <i class="fas fa-angle-right"></i> Política de Privacidad </a>
             <a href="#" class="link"> <i class="fas fa-angle-right"></i> Términos y Condiciones </a>
         </div>

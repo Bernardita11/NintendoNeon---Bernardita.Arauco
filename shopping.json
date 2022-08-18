@@ -1,0 +1,770 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Nintendo Switch",
+            "price": 102,
+            "image": "images/consolas/nintendo-switch.PNG",
+            "category": "Consolas"
+        },
+        {
+            "id": 2,
+            "title": "Nintendo Switch OLED",
+            "price": 102,
+            "image": "images/consolas/nintendo-switch-oled.jpg",
+            "category": "Consolas"
+        },
+        {
+            "id": 3,
+            "title": "Nintendo Switch BLACK",
+            "price": 102,
+            "image": "images/consolas/nintendo-switch-negra.JPG",
+            "category": "Consolas"
+        },
+        {
+            "id": 4,
+            "title": "Nintendo Switch COLORS",
+            "price": 102,
+            "image": "images/consolas/nintendo-switch-lite-colors.jpg",
+            "category": "Consolas"
+        },
+        {
+            "id": 5,
+            "title": "Nintendo Switch Edition Zacian & Zamazenta",
+            "price": 102,
+            "image": "images/consolas/nintendo-switch-lite-editon-1.JPG",
+            "category": "Consolas"
+
+        },
+        {
+            "id": 6,
+            "title": "Nintendo Switch Edition Palkia & Dialga",
+            "price": 102,
+            "image": "images/consolas/nintendo-switch-lite-edition-2.jpg",
+            "category": "Consolas"
+        },
+        {
+            "id": 7,
+            "title": "NintendoDS",
+            "price": 102,
+            "image": "images/consolas/nintendo-switch.PNG",
+            "category": "Consolas"
+        },
+        {
+            "id": 8,
+            "title": "Nintendo3DS",
+            "price": 102,
+            "image": "images/consolas/nintendo-3ds.JPG",
+            "category": "Consolas"
+        },
+        {
+            "id": 9,
+            "title": "Wii",
+            "price": 102,
+            "image": "images/consolas/wii.JPG",
+            "category": "Consolas"
+        },
+        {
+            "id": 10,
+            "title": "Wii-U",
+            "price": 102,
+            "image": "images/consolas/wii-u.jpg",
+            "category": "Consolas"
+        },
+        {
+            "id": 11,
+            "title": "Hyrule Warriors Legends",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-1.jpg",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 12,
+            "title": "Luigi's Mansion 2",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-3.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 13,
+            "title": "MarioParty Island Tour",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-4.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 14,
+            "title": "Captain Toad Treasure Tracker",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-5.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 15,
+            "title": "Mario Sports Super Stars",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-6.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 16,
+            "title": "Kirby Planet Robobot",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-7.JPG",
+            "category": "Nintendo3DS"
+
+        },
+        {
+            "id": 17,
+            "title": "Kirby Triple Deluxe",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-8.JPG",
+            "category": "Nintendo3DS"
+
+        },
+        {
+            "id": 18,
+            "title": "Kirby Battle Royale",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-9.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 29,
+            "title": "Pokémon Moon",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-10.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 20,
+            "title": "Pokémon Y",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-11.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 21,
+            "title": "Pokémon Sol",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-12.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 22,
+            "title": "Pokémon X",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-13.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 23,
+            "title": "Pokémon Alpha Sapphire",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-14.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 24,
+            "title": "Super Pokémon Rumble",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-15.WEBP",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 25,
+            "title": "Pokémon Omega Ruby",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-16.jpg",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 26,
+            "title": "Pokémon Rumble World",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-17.jpg",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 27,
+            "title": "Pokémon Super Mystery Dungeo",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-18.jpg",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 28,
+            "title": "RPGMAKER Fes",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-19.JPG",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 29,
+            "title": "MonsterHunter Stories",
+            "price": 102,
+            "image": "images/nintendo-3DS/nintendo3DS-20.jpg",
+            "category": "Nintendo3DS"
+        },
+        {
+            "id": 30,
+            "title": "Fossil Fighters",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-1.jpg",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 31,
+            "title": "MegaMan StarForce Dragon",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-2.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 32,
+            "title": "MegaMan Advent ZX",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-3.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 33,
+            "title": "Kirby Super Star Ultra",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-4.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 34,
+            "title": "Pokémon SoulSilve",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-5.jpg",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 35,
+            "title": "Pokémon Edición Negra",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-6.jpg",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 36,
+            "title": "Pokémon Edición Blanca",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-7.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 37,
+            "title": "Pokémon Edición Diamante",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-8.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 38,
+            "title": "Pokémon Mystery Dungeon Explorers of Time",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-9.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 39,
+            "title": "Pokémon Ranger Guardian Signs",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-10.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 40,
+            "title": "Pokémon Dash",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-12.jpg",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 41,
+            "title": "Digimon World Dusk",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-13.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 42,
+            "title": "Digimon World ChampionShip",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-14.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 43,
+            "title": "Digimon World DS",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-15.WEBP",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 44,
+            "title": "Sonic Chronicles The Dark Brotherhood",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-16.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 45,
+            "title": "Sonic Rush",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-17.WEBP",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 46,
+            "title": "Mario & Sonic at the Rio 2016",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-18.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 47,
+            "title": "Mario Kart DS",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-19.jpg",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 48,
+            "title": "Super Mario Bros",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-20.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 49,
+            "title": "Pokémon Conquest",
+            "price": 102,
+            "image": "images/nintendo-DS/nintendods-11.JPG",
+            "category": "NintendoDS"
+        },
+        {
+            "id": 50,
+            "title": "Mario Kart 8 Deluxe",
+            "price": 102,
+            "image": "images/switch/switch-9.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 51,
+            "title": "Super Mario Party",
+            "price": 102,
+            "image": "images/switch/switch-10.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 52,
+            "title": "Splatoon 2",
+            "price": 102,
+            "image": "images/switch/switch-11.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 53,
+            "title": "Arms",
+            "price": 102,
+            "image": "images/switch/switch-12.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 54,
+            "title": "Mario + Rabbids Kingdom Battle",
+            "price": 102,
+            "image": "images/switch/switch-13.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 55,
+            "title": "The Legend ofZelda Breath of the Wild",
+            "price": 102,
+            "image": "images/switch/switch-14.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 56,
+            "title": "The Legend of Zelda Link's Awakening",
+            "price": 102,
+            "image": "images/switch/switch-15.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 57,
+            "title": "Xenoblade Chronicles",
+            "price": 102,
+            "image": "images/switch/switch-16.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 58,
+            "title": "Xenoblade Chronicles 2",
+            "price": 102,
+            "image": "images/switch/switch-17.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 59,
+            "title": "Animal Crossing",
+            "price": 102,
+            "image": "images/switch/switch-18.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 60,
+            "title": "CTR Crash Team Racing Nitro Fueled",
+            "price": 102,
+            "image": "images/switch/switch-19.JPG",
+            "category": "Switch"
+        },
+        {
+            "id": 61,
+            "title": "Crash Bandicoot 4 It's About Time",
+            "price": 102,
+            "image": "images/switch/switch-20.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 62,
+            "title": "Pokémon Espada",
+            "price": 102,
+            "image": "images/switch/switch-21.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 63,
+            "title": "Pokémon Escudo",
+            "price": 102,
+            "image": "images/switch/switch-22.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 64,
+            "title": "Metroid Dread",
+            "price": 102,
+            "image": "images/switch/switch-23.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 65,
+            "title": "Harvest Moon One World",
+            "price": 102,
+            "image": "images/switch/switch-24.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 66,
+            "title": "Hollow Knight",
+            "price": 102,
+            "image": "images/switch/switch-25.JPG",
+            "category": "Switch"
+        },
+        {
+            "id": 67,
+            "title": "Hogwarts Legacy",
+            "price": 102,
+            "image": "images/switch/switch-26.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 68,
+            "title": "Mortal Kombat 11",
+            "price": 102,
+            "image": "images/switch/switch-27.jpg",
+            "category": "Switch"
+        },
+        {
+            "id": 69,
+            "title": "Kirby Fighters",
+            "price": 102,
+            "image": "images/switch/switch-28.JPG",
+            "category": "Switch"
+        },
+        {
+            "id": 70,
+            "title": "Super Smash Bros Brawl",
+            "price": 102,
+            "image": "images/Wii/wii-1.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 71,
+            "title": "Raman Raving Rabbids",
+            "price": 102,
+            "image": "images/Wii/wii-2.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 72,
+            "title": "MarioParty 9",
+            "price": 102,
+            "image": "images/Wii/wii-3.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 73,
+            "title": "MarioParty 8",
+            "price": 102,
+            "image": "images/Wii/wii-4.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 74,
+            "title": "Super Mario Galaxy",
+            "price": 102,
+            "image": "images/Wii/wii-5.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 75,
+            "title": "Mario Sports Mix",
+            "price": 102,
+            "image": "images/Wii/wii-6.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 76,
+            "title": "Super Mario Paper",
+            "price": 102,
+            "image": "images/Wii/wii-7.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 77,
+            "title": "Mario & Sonic en los Juegos Olímpicos",
+            "price": 102,
+            "image": "images/Wii/wii-8.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 78,
+            "title": "Sonic & the Secret Rings",
+            "price": 102,
+            "image": "images/Wii/wii-9.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 79,
+            "title": "Sonic Unleashed",
+            "price": 102,
+            "image": "images/Wii/wii-10.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 80,
+            "title": "Sonic Sega All Stars Racing",
+            "price": 102,
+            "image": "images/Wii/wii-11.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 81,
+            "title": "Sonic Riders Zero Gravity",
+            "price": 102,
+            "image": "images/Wii/wii-12.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 82,
+            "title": "Sonic Colors",
+            "price": 102,
+            "image": "images/Wii/wii-13.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 83,
+            "title": "Epic Mickeyl",
+            "price": 102,
+            "image": "images/Wii/wii-14.jpg",
+            "category": "Wii"
+        },
+        {
+            "id": 84,
+            "title": "Epic Mickey The Power of 2",
+            "price": 102,
+            "image": "images/Wii/wii-15.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 85,
+            "title": "Tatsunoko Ultimate All-Stars",
+            "price": 102,
+            "image": "images/Wii/wii-16.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 86,
+            "title": "Zack & Wiki Quest for Barbaros'Treasure",
+            "price": 102,
+            "image": "images/Wii/wii-17.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 87,
+            "title": "The Legend of Zelda Twilight Princess",
+            "price": 102,
+            "image": "images/Wii/wii-18.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 88,
+            "title": "Kirby Adventure Wii",
+            "price": 102,
+            "image": "images/Wii/wii-19.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 89,
+            "title": "Just Dance 4",
+            "price": 102,
+            "image": "images/Wii/wii-20.JPG",
+            "category": "Wii"
+        },
+        {
+            "id": 90,
+            "title": "MarioParty 10",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-1.JPG",
+            "category": "Wii-U"
+        },
+        {
+            "id": 91,
+            "title": "Super Mario 3D World",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-2.JPG",
+            "category": "Wii-U"
+        },
+        {
+            "id": 92,
+            "title": "New Super Mario Bros.U",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-3.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 93,
+            "title": "Mario Tennis Ultra Smash",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-4.JPG",
+            "category": "Wii-U"
+        },
+        {
+            "id": 94,
+            "title": "Mario Kart 8",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-5.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 95,
+            "title": "Splatoon",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-6.JPG",
+            "category": "Wii-U"
+        },
+        {
+            "id": 96,
+            "title": "Sonic Lost World",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-7.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 97,
+            "title": "Mario & Sonic Winter Games",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-8.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 98,
+            "title": "Sonic Boom El Ascenso de Lyric",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-9.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 99,
+            "title": "Rayman Legends",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-10.JPG",
+            "category": "Wii-U"
+        },
+        {
+            "id": 100,
+            "title": "Minecraft StoryTime",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-11.JPG",
+            "category": "Wii-U"
+        },
+        {
+            "id": 101,
+            "title": "Bayoneta 2",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-12.JPG",
+            "category": "Wii-U"
+        },
+        {
+            "id": 102,
+            "title": "Hyrule Warrios",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-13.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 103,
+            "title": "The Legend of Zelda Breath of the Wild",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-14.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 104,
+            "title": "Lego Star Wars The Force Awakens",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-15.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 105,
+            "title": "Angry Birds Trilogy",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-16.JPG",
+            "category": "Wii-U"
+        },
+        {
+            "id": 106,
+            "title": "Xenoblade X",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-17.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 107,
+            "title": "Shovel Knight",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-18.jpg",
+            "category": "Wii-U"
+        },
+        {
+            "id": 108,
+            "title": "Pokkén Tournament",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-19.JPG",
+            "category": "Wii-U"
+        },
+        {
+            "id": 109,
+            "title": "Game Party Champions",
+            "price": 102,
+            "image": "images/Wii-U/wii-U-20.jpg",
+            "category": "Wii-U"
+        }
+    ]
+}
